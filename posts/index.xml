@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - The Oracle</title>
+        <link>http://blog.spacecowboy.dev/posts/</link>
+        <description>All Posts | The Oracle</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>bruno@spacecowboy.dev (Bruno Carvalho)</managingEditor>
+            <webMaster>bruno@spacecowboy.dev (Bruno Carvalho)</webMaster><lastBuildDate>Thu, 24 Aug 2023 01:59:29 -0300</lastBuildDate><atom:link href="http://blog.spacecowboy.dev/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Teste</title>
+    <link>http://blog.spacecowboy.dev/teste/</link>
+    <pubDate>Thu, 24 Aug 2023 01:59:29 -0300</pubDate>
+    <author>Bruno Carvalho</author>
+    <guid>http://blog.spacecowboy.dev/teste/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
