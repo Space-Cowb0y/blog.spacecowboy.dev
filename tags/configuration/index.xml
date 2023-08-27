@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>The Oracle</title>
-        <link>http://blog.spacecowboy.dev/</link>
-        <description>This is my cool site</description>
+        <title>configuration - Tag - The Oracle</title>
+        <link>http://blog.spacecowboy.dev/tags/configuration/</link>
+        <description>configuration - Tag - The Oracle</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>bruno@spacecowboy.dev (Bruno Carvalho)</managingEditor>
-            <webMaster>bruno@spacecowboy.dev (Bruno Carvalho)</webMaster><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate>
-            <atom:link href="http://blog.spacecowboy.dev/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>bruno@spacecowboy.dev (Bruno Carvalho)</webMaster><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://blog.spacecowboy.dev/tags/configuration/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Basics</title>
     <link>http://blog.spacecowboy.dev/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
