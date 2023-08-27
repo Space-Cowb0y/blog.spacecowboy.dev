@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Categories - Category - The Oracle</title>
-        <link>http://blog.spacecowboy.dev/categories/</link>
-        <description>Categories - Category - The Oracle</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>bruno@spacecowboy.dev (Bruno Carvalho)</managingEditor>
-            <webMaster>bruno@spacecowboy.dev (Bruno Carvalho)</webMaster><atom:link href="http://blog.spacecowboy.dev/categories/" rel="self" type="application/rss+xml" /></channel>
-</rss>
