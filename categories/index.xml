@@ -4,13 +4,5 @@
         <link>http://blog.spacecowboy.dev/categories/</link>
         <description>Categories - Category - The Oracle</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>bruno@spacecowboy.dev (Bruno Carvalho)</managingEditor>
-            <webMaster>bruno@spacecowboy.dev (Bruno Carvalho)</webMaster><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://blog.spacecowboy.dev/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>documentation</title>
-    <link>http://blog.spacecowboy.dev/categories/documentation/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>Bruno Carvalho</author>
-    <guid>http://blog.spacecowboy.dev/categories/documentation/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+            <webMaster>bruno@spacecowboy.dev (Bruno Carvalho)</webMaster><atom:link href="http://blog.spacecowboy.dev/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

@@ -4,21 +4,5 @@
         <link>http://blog.spacecowboy.dev/tags/</link>
         <description>Tags - Tag - The Oracle</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>bruno@spacecowboy.dev (Bruno Carvalho)</managingEditor>
-            <webMaster>bruno@spacecowboy.dev (Bruno Carvalho)</webMaster><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://blog.spacecowboy.dev/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>configuration</title>
-    <link>http://blog.spacecowboy.dev/tags/configuration/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>Bruno Carvalho</author>
-    <guid>http://blog.spacecowboy.dev/tags/configuration/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>installation</title>
-    <link>http://blog.spacecowboy.dev/tags/installation/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>Bruno Carvalho</author>
-    <guid>http://blog.spacecowboy.dev/tags/installation/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+            <webMaster>bruno@spacecowboy.dev (Bruno Carvalho)</webMaster><atom:link href="http://blog.spacecowboy.dev/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
