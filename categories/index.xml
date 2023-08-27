@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - The Oracle</title>
+        <title>Categories - Category - O Oráculo</title>
         <link>http://blog.spacecowboy.dev/categories/</link>
-        <description>Categories - Category - The Oracle</description>
+        <description>Categories - Category - O Oráculo</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>bruno@spacecowboy.dev (O Oráculo)</managingEditor>
             <webMaster>bruno@spacecowboy.dev (O Oráculo)</webMaster><atom:link href="http://blog.spacecowboy.dev/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
