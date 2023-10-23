@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>O Oráculo</title>
-        <link>http://blog.spacecowboy.dev/</link>
-        <description>This is my cool site</description>
+        <title>Ficção - Tag - O Oráculo</title>
+        <link>http://blog.spacecowboy.dev/tags/fic%C3%A7%C3%A3o/</link>
+        <description>Ficção - Tag - O Oráculo</description>
         <generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>bruno@spacecowboy.dev (O Oráculo)</managingEditor>
-            <webMaster>bruno@spacecowboy.dev (O Oráculo)</webMaster><lastBuildDate>Sun, 27 Aug 2023 13:54:59 -0300</lastBuildDate>
-            <atom:link href="http://blog.spacecowboy.dev/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>bruno@spacecowboy.dev (O Oráculo)</webMaster><lastBuildDate>Sun, 27 Aug 2023 13:54:59 -0300</lastBuildDate><atom:link href="http://blog.spacecowboy.dev/tags/fic%C3%A7%C3%A3o/" rel="self" type="application/rss+xml" /><item>
     <title>Ponto de não retorno</title>
     <link>http://blog.spacecowboy.dev/o-inicio/</link>
     <pubDate>Sun, 27 Aug 2023 13:54:59 -0300</pubDate>
